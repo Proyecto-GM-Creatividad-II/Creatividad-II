@@ -87,10 +87,26 @@
             }
         },
         {
+            "Key": "3773dd44-6ccb-404f-97a6-85ec0d6199ec",
+            "Value": {
+                "id": "1a5af763-2ccf-4ed8-85b4-7150bd1aa813",
+                "resourcePath": "objects\\o_Personaje_Estatico_Derecha\\o_Personaje_Estatico_Derecha.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3cb19cba-a20c-4e1d-8f25-e16594223222",
             "Value": {
                 "id": "87152870-585f-4b50-a686-0efeb0679491",
                 "resourcePath": "views\\3cb19cba-a20c-4e1d-8f25-e16594223222.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3d688091-3a76-405b-a5d4-6798d80557c4",
+            "Value": {
+                "id": "42dbc8a9-9d0a-4e64-9f83-cc99474c209b",
+                "resourcePath": "views\\3d688091-3a76-405b-a5d4-6798d80557c4.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -116,6 +132,22 @@
                 "id": "2647696c-c6f9-4236-8ffc-362d3a99f2a8",
                 "resourcePath": "views\\540c3bfb-a22d-47c5-84e8-e88846936cba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58ae6e69-43f9-4a0f-ada0-573dbb4e17e0",
+            "Value": {
+                "id": "2af59167-6b88-4528-ae1b-b9eb528a0cce",
+                "resourcePath": "views\\58ae6e69-43f9-4a0f-ada0-573dbb4e17e0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5ae84e65-a38b-430d-8eae-e8cb5542c60f",
+            "Value": {
+                "id": "1f019b50-775e-4c3e-836c-4ee861aaf7a1",
+                "resourcePath": "objects\\o_Personaje_Estatico_Izquierda\\o_Personaje_Estatico_Izquierda.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -155,6 +187,14 @@
             "Value": {
                 "id": "316b28bb-02a4-4d59-883e-da0a7ba4e5e6",
                 "resourcePath": "views\\8f2f7e6a-4396-4841-bc13-4b51ae4fdd45.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "90473238-b2d2-4525-8a13-41b011c51d5a",
+            "Value": {
+                "id": "589c0a03-6820-4899-8767-81783e50e417",
+                "resourcePath": "views\\90473238-b2d2-4525-8a13-41b011c51d5a.yy",
                 "resourceType": "GMFolder"
             }
         },
