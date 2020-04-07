@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1b583087-8a55-4794-ad4d-deb515f76922",
+            "Value": {
+                "id": "d5167344-ba83-4bd7-b7a0-0f3e567b4b66",
+                "resourcePath": "sprites\\s_Personaje_Estatico_Izquierda\\s_Personaje_Estatico_Izquierda.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1be594d5-9fe3-406c-879c-fc2aec762a1b",
             "Value": {
                 "id": "99e829e4-9a0d-4cff-b6df-c96a1fa3b235",
