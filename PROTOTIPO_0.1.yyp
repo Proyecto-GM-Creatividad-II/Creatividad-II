@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "e5d2d5c4-6731-4754-bcff-da36464497b4",
+            "Value": {
+                "id": "12576a1a-5259-4c7e-8755-12ef759c48c2",
+                "resourcePath": "sprites\\s_Personaje_Caminar_Izquierda\\s_Personaje_Caminar_Izquierda.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e64b0a84-c103-46be-947e-1d962dda5e44",
             "Value": {
                 "id": "2c8f3bd1-a859-4dc9-a0f9-b5142a63009a",
