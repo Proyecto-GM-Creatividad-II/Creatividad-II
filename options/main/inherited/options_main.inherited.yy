@@ -2,9 +2,9 @@
     "option_window_colour": {
         "Value": 4278190080
     },
-    "option_gameguid": "3540ef65-58ee-43cc-b20e-7db63bea786d",
+    "option_gameguid": "883514dd-0d40-48f2-b220-628ea16c0ad8",
     "option_game_speed": 60,
-    "option_lastchanged": "07 April 2020 10:53:31",
+    "option_lastchanged": "31 March 2020 19:40:34",
     "option_sci_usesci": true
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
     "targets": 461609314234257646
