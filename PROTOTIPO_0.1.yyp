@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "59f4bdf2-5a9e-4e46-9fbf-1f3b45c6d95d",
+            "Value": {
+                "id": "a945ac2c-e2aa-42eb-b25e-451f45538690",
+                "resourcePath": "objects\\objectWall\\objectWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5ae84e65-a38b-430d-8eae-e8cb5542c60f",
             "Value": {
                 "id": "1f019b50-775e-4c3e-836c-4ee861aaf7a1",
@@ -172,6 +180,14 @@
                 "id": "c78d8d95-9a10-4a68-8e22-8c974780acb3",
                 "resourcePath": "views\\66b4a3eb-5917-4a5b-a0d0-f721c2ace461.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "71173975-8e7f-4ec4-9782-56e710adfdf3",
+            "Value": {
+                "id": "de063417-8d2f-4520-9788-269da0e28d25",
+                "resourcePath": "objects\\objectPlayer\\objectPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -215,11 +231,27 @@
             }
         },
         {
+            "Key": "9b3f3605-c56e-4a9c-b64f-8cb3df1e569e",
+            "Value": {
+                "id": "f62ed9fb-5231-477e-a13c-b61934e844d0",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9baf6dd1-abbf-4cf9-9ced-b492192e5dc5",
             "Value": {
                 "id": "42a60ce3-c889-45c2-b569-2d6302bb31a0",
                 "resourcePath": "tilesets\\tileset_personaje\\tileset_personaje.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "9d0a14cc-1af3-42bc-bed8-e5895d8620a1",
+            "Value": {
+                "id": "55dd2ebb-9770-4c49-902f-b1fef4af784d",
+                "resourcePath": "sprites\\spritePlayer\\spritePlayer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -260,6 +292,14 @@
                 "id": "6e450413-726f-4b71-b2e6-20d7869334c2",
                 "resourcePath": "objects\\o_Personaje\\o_Personaje.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b40ba21a-8fe5-4d61-9043-ffbf245d95a8",
+            "Value": {
+                "id": "408b94a4-fe78-4c50-82eb-ceb68ee91abb",
+                "resourcePath": "sprites\\spriteInvisibleWall\\spriteInvisibleWall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
