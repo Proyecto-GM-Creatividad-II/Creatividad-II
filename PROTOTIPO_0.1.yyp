@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "5f777dc7-780c-48ee-90a4-ea00d7284920",
+            "Value": {
+                "id": "d0d981b3-38dd-4fe9-ba07-95d52ff552b1",
+                "resourcePath": "objects\\o_Personaje_Caminar_Izquierda\\o_Personaje_Caminar_Izquierda.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "60d7361a-c8fb-4e86-8538-c9b3520c67a9",
             "Value": {
                 "id": "6e4e1380-ddba-4f70-a6cd-e0d351ec4136",
